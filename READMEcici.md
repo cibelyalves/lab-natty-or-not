@@ -5,6 +5,7 @@ Nesse projeto usei um avatar de uma foto minha gestante e falei um pouquinho de 
 
 ## 🤖 Tecnologias Utilizadas
 Usei IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
+link https://studio.d-id.com/share?id=6304867ca03bf429642b8f49727fc32a&utm_source=copy
 
 ## 🧐 Processo de Criação
 Peguei uma foto do meu album de gestante, e usei como avatar no D-ID, baixei a imagem, gravei um audio em MP3 e fiz up load no D-ID. Editei o video e salvei o video.
